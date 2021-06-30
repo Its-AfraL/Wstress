@@ -9,3 +9,5 @@ Make sure you have python installed on your computer and then just start the ins
 
 # How to use it ?
 Start the Wstress.bat file, this is the main file, it really easy just put your webhook url and the text to spam
+
+![alt text](https://raw.githubusercontent.com/Its-AfraL/Wstress/main/wstress.PNG)
