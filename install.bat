@@ -17,7 +17,8 @@ pip install requests
 pip install colorama
 pip install discord
 pip install discord_webhook
-
+echo.
+echo.
 echo %time%  { + } Wstress was correctly installed
 echo.
 pause 
