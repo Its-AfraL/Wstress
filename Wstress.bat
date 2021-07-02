@@ -81,7 +81,7 @@ echo.
 py spammer.py
 echo.
 
-echo %time%  { * } Spamming is finish, press a ENTER to leave
+echo %time%  { * } Spamming is finish, press ENTER to leave
 
 pause > nul
 
